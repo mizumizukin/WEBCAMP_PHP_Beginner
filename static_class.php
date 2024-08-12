@@ -4,14 +4,14 @@ class Hoge
 {
      //
     private static $静的プロパティ;
-    
-    
+
+
     //
     public static function 静的なメソッド()
     {
         echo "静的なメソッド \n";
     }
-    
+
     //
     public static function set静的プロパティ($v)
     {
