@@ -13,4 +13,5 @@ try{
      echo "例外が発生したらここを通る \n";
      var_dump($e->getMessage());
 }
-//echo "fin. \n";
+//
+echo "fin. \n";
